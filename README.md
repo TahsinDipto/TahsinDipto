@@ -3,7 +3,7 @@
 - 👩‍🎓 Enrolled at [Git-hub](https://github.com/TahsinDipto) to elevate my coding skills.
 - ✨ Full-time student and part-time? Let's keep it simple, a programmer.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with `.html`, `.css`, `.sass`, `.js`
+- ❤ Love working with `.html`, `.css`, `.tailwind`, `.bootstrap` `.js`
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 </br>
